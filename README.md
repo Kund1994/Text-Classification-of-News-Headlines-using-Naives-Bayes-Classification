@@ -11,9 +11,15 @@
 
 ## What is Naives Bayes?
 
+Naive basyes classifier works on the priniciple of condition probability as given by the Bayes theorem. The bayes theorem gives us the conditional probability of an event **A** given that an event **B** has occured. In the Bayes theorem, the probability of **A** occuring given that **B** has occured, is the probability of **B** occuring fiven that **A** has occured times the probability of **A** over the probability of **B**. 
+
+![alt-text](https://cdn-images-1.medium.com/max/800/1*LB-G6WBuswEfpg20FMighA.png)
 
 ## Naives Bayes and Machine Learning
 
+![alt-text](
+
+It is importnat to undertand where the Naives Bayes fits in the heirarchy of Machine Learning. So under machine learning there is **Supervised Learning** and **Unsupervised Learning**. Under the supervised learning there is the **Classification** and **Regression**. And under Classification we have the **Naives Bayes**. 
 
 ## Understanding the Naives Bayes Classifier
 
