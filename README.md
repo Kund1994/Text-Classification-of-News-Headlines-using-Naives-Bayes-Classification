@@ -6,7 +6,7 @@
 
 ## Contents
 ***
-+ [What is Naives Bayes?]
++ [What is Naives Bayes?](##What is Naives Bayes?)
 + [Naives Bayes and Machine Learning]
 + [Understanding the Naives Bayes Classifier]
 + [Advatages of the Naives Bayes Classifier]
