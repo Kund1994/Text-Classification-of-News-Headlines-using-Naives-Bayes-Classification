@@ -1,23 +1,23 @@
-# Text Classification of News Headlines using Naives Bayes Classification
+# Text Classification of News Headlines using Naive Bayes Classification
 
 ![alt-text](https://cdn-images-1.medium.com/max/800/1*HgXA9v1EsqlrRDaC_iORhQ.png "Test Alt Text")
 
 ## Contents
-+ [What is Naives Bayes?](https://github.com/bedangSen/Text-Classification-of-News-Headlines-using-Naives-Bayes-Classification/blob/master/README.md#what-is-naives-bayes)
-+ [Naives Bayes and Machine Learning](https://github.com/bedangSen/Text-Classification-of-News-Headlines-using-Naives-Bayes-Classification/blob/master/README.md#naives-bayes-and-machine-learning)
++ [What is Naive Bayes?](https://github.com/bedangSen/Text-Classification-of-News-Headlines-using-Naives-Bayes-Classification/blob/master/README.md#what-is-naives-bayes)
++ [Naive Bayes and Machine Learning](https://github.com/bedangSen/Text-Classification-of-News-Headlines-using-Naives-Bayes-Classification/blob/master/README.md#naives-bayes-and-machine-learning)
 + [Text Classification of News Headlines into News Groups](https://github.com/bedangSen/Text-Classification-of-News-Headlines-using-Naives-Bayes-Classification/blob/master/README.md#text-classification-of-news-headlines-into-news-groups)
 
-## What is Naives Bayes?
+## What is Naive Bayes?
 
-Naive basyes classifier works on the priniciple of condition probability as given by the Bayes theorem. The bayes theorem gives us the conditional probability of an event **A** given that an event **B** has occured. In the Bayes theorem, the probability of **A** occuring given that **B** has occured, is the probability of **B** occuring fiven that **A** has occured times the probability of **A** over the probability of **B**. 
+Naive Bayes classifier works on the principle of condition probability as given by the Bayes theorem. The Bayes theorem gives us the conditional probability of an event **A** given that an event **B** has occurred. In the Bayes theorem, the probability of **A** occurring given that **B** has occurred, is the probability of **B** occurring given that **A** has occurred times the probability of **A** over the probability of **B**. 
 
 ![alt-text](https://cdn-images-1.medium.com/max/800/1*LB-G6WBuswEfpg20FMighA.png)
 
-## Naives Bayes and Machine Learning
+## Naive Bayes and Machine Learning
 
 ![alt-text](https://github.com/bedangSen/Text-Classification-of-News-Headlines-using-Naives-Bayes-Classification/blob/master/Naives%20Bayes%20in%20Machine%20Learning.png)
 
-It is importnat to undertand where the Naives Bayes fits in the heirarchy of Machine Learning. So under machine learning there is **Supervised Learning** and **Unsupervised Learning**. Under the supervised learning there is the **Classification** and **Regression**. And under Classification we have the **Naives Bayes**. 
+It is important to understand where the Naive Bayes fits in the hierarchy of Machine Learning. So under machine learning there is **Supervised Learning** and **Unsupervised Learning**. Under the supervised learning there is the **Classification** and **Regression**. And under Classification we have the **Naive Bayes**. 
 
 ## Text Classification of News Headlines into News Groups
 
@@ -52,7 +52,7 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 
 #### 6. Follow the steps in the notebook
 
-Thesteps in the notebook should allow you to understand how to download the dataset, create a model that uses Naives Bayes Classification and then visualize it using a Confusion Matrix and Heat map. 
+The steps in the notebook should allow you to understand how to download the dataset, create a model that uses Naive Bayes Classification and then visualize it using a Confusion Matrix and Heat map. 
 
 Finally you should be able to test the model and check it's accuracy.
 
